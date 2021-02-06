@@ -15,4 +15,4 @@ def fibo(fib):
              x += 1
 
 #num = int(input("enter a number : " ))
-fibo(9)
+fibo(10)
